@@ -1,4 +1,4 @@
 ### Just  github learn
 
 第一次尝试
-git tracks changes 1
+git tracks changes 2
